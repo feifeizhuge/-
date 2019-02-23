@@ -34,3 +34,5 @@ end
 小于阈值： 保持当先的flag点，并比较接下来的点。
 
 遍历所有的点，记录被选中的index。
+
+![image](https://github.com/feifeizhuge/charging-curve-reconstruction/edit/master/reconstructed curve.)
