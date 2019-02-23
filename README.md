@@ -35,4 +35,4 @@ end
 
 遍历所有的点，记录被选中的index。
 
-![image](https://github.com/feifeizhuge/charging-curve-reconstruction/edit/master/reconstructed curve.)
+![image](https://github.com/feifeizhuge/charging-curve-reconstruction/blob/master/reconstructed%20curve.png)
