@@ -36,3 +36,5 @@ end
 遍历所有的点，记录被选中的index。
 
 ![image](https://github.com/feifeizhuge/charging-curve-reconstruction/blob/master/reconstructed%20curve.png)
+
+我们可以看到，中间部分的曲线比较平整，采用这种方法可以只用两个点就能表示中间大部分的点，节约了很大的存储空间
